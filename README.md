@@ -8,8 +8,8 @@ This project analyzes user behavior on a fictional streaming platform using SQL 
 - `content.csv` – show/movie details
 - `ratings.csv` – user ratings
 - `watch_history.csv` – viewing history
-- `analysis_queries.sql` – all SQL queries used
-- `Streaming_Analytics_Dashboard.pbix` – Power BI dashboard
+- `queries.sql` – all SQL queries used
+- `streaming.pbix` – Power BI dashboard
 
 ## 🔍 Key Insights
 
