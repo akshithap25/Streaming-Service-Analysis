@@ -1,2 +1,32 @@
-# Streaming-Service-Analysis
-Streaming Service Analytics Project – SQL-based insights on user behavior, content trends, and platform engagement using structured queries over users, content, ratings, and watch history data.
+# 🎬 SQL Streaming Analytics Project
+
+This project analyzes user behavior on a fictional streaming platform using SQL and Power BI.
+
+## 📁 Files Included
+
+- `users.csv` – user data
+- `content.csv` – show/movie details
+- `ratings.csv` – user ratings
+- `watch_history.csv` – viewing history
+- `analysis_queries.sql` – all SQL queries used
+- `Streaming_Analytics_Dashboard.pbix` – Power BI dashboard
+
+## 🔍 Key Insights
+
+- Top 5 most watched shows
+- Active users by month
+- Watch time per user
+- Genre and device trends
+- Churn and peak hours
+
+## 🧠 Tools Used
+
+- SQL (PostgreSQL)
+- Power BI
+- CSV files
+
+## ▶️ How to Use
+
+1. Clone or download the repo
+2. Open the `.pbix` file in Power BI Desktop
+3. View and explore the dashboard
